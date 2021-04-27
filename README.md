@@ -3,6 +3,7 @@
 Home Task 5:
 Create Test Automation Framework for one of web sites:
 https://www.amazon.com/
+
 Mandatory Conditions:
 1) Programming code should correspond to Java Code Convention.
 2) Use sensible names for methods and variables.
